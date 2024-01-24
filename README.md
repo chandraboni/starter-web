@@ -8,5 +8,6 @@ Sample website with plenty of files for demos
 
 ## Development in progress
 
+## New line for conflict
 
 ## Testing

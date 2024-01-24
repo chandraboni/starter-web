@@ -6,10 +6,11 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## New line for conflict 
+## how are you today..!! 
 
 ## Development in progress
+thisidf 
+sdfdksf
 
-## New line for conflict
 
 ## Testing
